@@ -36,7 +36,7 @@ The pipeline benchmarks six classification algorithms using 10-fold cross-valida
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/wine-classification-pipeline.git](https://github.com/your-username/wine-classification-pipeline.git)
+git clone [https://github.com/rajt-ship-it/wine-classification-pipeline.git](https://github.com/rajt-ship-it/wine-classification-pipeline.git)
 cd wine-classification-pipeline
 ```
 
